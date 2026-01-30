@@ -13,7 +13,7 @@
 - **Tools:** Git, GitHub, VS Code, IntellijIDEA, EclipseIDE
 
 ## 📌 Projects
-- **Library Management System** – Java, JDBC, MySQL  
+- **Library Management System** – Java, JDBC, MySQL , HTML, CSS , Js
 - **Banking System** – Java, JDBC, PostgreSQL  
 - **Engiplex** – Freelance-style full stack project
 
